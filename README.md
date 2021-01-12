@@ -1,5 +1,5 @@
-# ARCore-City-Planning
-Plan the township via AR
+# ARCore-HouseVisualizer
+Visualize house 3D model and experince complete walkthrough of dream house
 
 ## Unity Package
 https://drive.google.com/drive/folders/1ySRQZ_5NRZUumkaTTyS7puwNzD9B6hCP?usp=sharing
